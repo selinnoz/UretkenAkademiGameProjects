@@ -1,6 +1,6 @@
 # UretkenAkademiGameProjects
 
-For our first week we use assets ad objects
+For our first week we use assets and objects
 
 
 
